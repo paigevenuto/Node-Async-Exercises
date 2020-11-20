@@ -1,0 +1,11 @@
+#pile {
+    margin: 100px;
+    position: relative;
+}
+
+.playingCard {
+    float: left;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
